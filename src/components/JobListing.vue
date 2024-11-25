@@ -18,7 +18,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           
           <!-- added hover effect on cards-->
-            <SingleJobListing class="hover:-translate-y-2 transition-transform duration-200" v-for="job in jobs" :key="job.id" :job="job"/>
+            <SingleJobListing class="hover:-translate-y-4 transition-transform duration-200" v-for="job in jobs" :key="job.id" :job="job"/>
 
         </div>
 

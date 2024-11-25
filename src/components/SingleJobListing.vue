@@ -37,7 +37,7 @@
                   </div>
                   <a
                     :href="'/job/' + job.id"
-                    class="h-[36px] hover:bg-black font-semibold bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-lg text-center text-sm"
+                    class="h-[36px] hover:bg-black font-semibold bg-green-500 text-white px-4 py-2 rounded-lg text-center text-sm"
                   >
                     View Details
                   </a>
