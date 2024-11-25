@@ -2,6 +2,11 @@
 
 Welcome to the Job Application Portal! This repository contains the code and documentation for setting up and using the job application portal where candidates can apply for jobs, and recruiters can manage applications.
 
+## Tech stack
+- Vue.js
+- TailwindCSS
+- vite
+
 ## Features
 - Job listings Homepage
 - Job details page or modal
