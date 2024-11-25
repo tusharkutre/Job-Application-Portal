@@ -57,7 +57,7 @@ export default {
     margin-left: 10px;
   }
   .submit-button:hover{
-    background-color: darkgreen;
+    background-color: black;
   }
   .Apply-button{
     display: inline-block;
@@ -70,7 +70,7 @@ export default {
     margin-left: 10px;
   }
   .Apply-button:hover{
-    background-color: darkgreen;
+    background-color: black;
   }
   .application-form {
     max-width: 600px;

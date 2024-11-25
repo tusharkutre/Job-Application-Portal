@@ -74,7 +74,7 @@ onMounted(() => {
   }
   
   .back-button:hover {
-    background-color: darkgreen;
+    background-color: black;
   }
 
   .Apply-button{
@@ -87,6 +87,6 @@ onMounted(() => {
     text-decoration: none;
   }
   .Apply-button:hover {
-    background-color: darkgreen;
+    background-color: black;
   }
   </style>
