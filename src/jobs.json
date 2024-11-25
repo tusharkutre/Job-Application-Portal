@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Full-stack Developer",
+    "company": "Uber",
+    "location": "Bengaluru, Karnataka, India",
+    "description": "Uber is looking for a skilled Senior Full-Stack Developer to join our dynamic team..."
+  },
+  {
+    "id": 2,
+    "title": "Junior Front-end Developer",
+    "company": "Lyft",
+    "location": "San Francisco, California, USA",
+    "description": "Join Lyft as a Junior Front-end Developer..."
+  },
+  {
+    "id": 3,
+    "title": "Junior Front-end Developer",
+    "company": "Lyft",
+    "location": "San Francisco, California, USA",
+    "description": "Join Lyft as a Junior Front-end Developer..."
+  },
+  {
+    "id": 4,
+    "title": "Junior Front-end Developer",
+    "company": "Lyft",
+    "location": "San Francisco, California, USA",
+    "description": "Join Lyft as a Junior Front-end Developer..."
+  },
+  {
+    "id": 5,
+    "title": "Junior Front-end Developer",
+    "company": "Lyft",
+    "location": "San Francisco, California, USA",
+    "description": "Join Lyft as a Junior Front-end Developer..."
+  },
+  {
+    "id": 6,
+    "title": "Junior Front-end Developer",
+    "company": "Lyft",
+    "location": "San Francisco, California, USA",
+    "description": "Join Lyft as a Junior Front-end Developer..."
+  },
+  {
+    "id": 7,
+    "title": "Junior Front-end Developer",
+    "company": "Lyft",
+    "location": "San Francisco, California, USA",
+    "description": "Join Lyft as a Junior Front-end Developer..."
+  },
+  {
+    "id": 8,
+    "title": "Junior Front-end Developer",
+    "company": "Lyft",
+    "location": "San Francisco, California, USA",
+    "description": "Join Lyft as a Junior Front-end Developer..."
+  },
+  {
+    "id": 9,
+    "title": "Junior Front-end Developer",
+    "company": "Lyft",
+    "location": "San Francisco, California, USA",
+    "description": "Join Lyft as a Junior Front-end Developer..."
+  }
+]
