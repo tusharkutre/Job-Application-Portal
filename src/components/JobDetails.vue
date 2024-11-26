@@ -21,6 +21,7 @@ onMounted(() => {
     console.error('Job not found');
   }
 });
+
 </script>
 
 <template>

@@ -1,5 +1,6 @@
 <script setup>
-    import uber from '@/assets/img/uber.jpeg';
+    // import uber from '@/assets/img/uber.jpeg';
+
     import { defineProps } from 'vue';
 
     defineProps({
@@ -19,7 +20,7 @@
   
                 <div class="my-3">
                   <div class="flex items-center gap-1">
-                      <img class="w-8":src="uber" alt="Uber Logo">
+                      <!-- <img class="w-8" :src="job.uber" > -->
                       <h3 class="text-lg font-semibold">{{job.company}}</h3>
                   </div>
                 </div>

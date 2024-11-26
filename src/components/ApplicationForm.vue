@@ -1,4 +1,10 @@
 <script>
+
+import ToastPlugin, { useToast } from 'vue-toast-notification';
+
+//intailization
+const Toast = useToast();
+
 export default {
   data() {
     return {
@@ -15,9 +21,14 @@ export default {
     },
     submitApplication() {
       // Handle form submission logic here
-      alert("Application has been successfully submitted!")
-      console.log("Application submitted:", this.formData);
+      try {
+        Toast.success("Application has been successfully submitted!")
+        console.log("Application submitted:", this.formData);
       // You can add API call to submit the form data
+      } catch (error) {
+      console.error("Submission error:", error);
+      Toast.error("Error: " + error.message);
+     }
     },
   },
 };
@@ -26,6 +37,7 @@ export default {
 <template>
     <h2 class="text-3xl font-semibold px-4 py-4">Application Form </h2>
     <div class="application-form border-2 rounded-lg border-gray-300 py-10">
+      <!-- to stop the browser behavior -->
       <form @submit.prevent="submitApplication">
         <div class="username">
           <label for="name">Name:</label>
